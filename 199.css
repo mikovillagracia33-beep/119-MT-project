@@ -269,7 +269,7 @@ footer {
 
 .sidebar h3.select {
     width: 230px;
-    background: transparent no-repeat url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAXemOnY2zTEGTugZzf3DdOwj4678OZUOKdQ&s) 8px 50px;
+    background: transparent no-repeat url() 8px 50px;
     text-align: left;
     border-bottom-style: none;
     margin-top: 60px;
@@ -284,7 +284,7 @@ footer {
 }
 .sidebar h3.archives { 
 
-	background: transparent url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAXemOnY2zTEGTugZzf3DdOwj4678OZUOKdQ&s) no-repeat -7px -0px; 
+	background: transparent url() no-repeat -7px -0px; 
 	color: #d3da17;
 	height: 50px;
 	width:170px; margin: 10px 0px -8px 0px;
@@ -296,7 +296,7 @@ footer {
 
 .sidebar h3.resources { 
 
-	background: transparent url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAXemOnY2zTEGTugZzf3DdOwj4678OZUOKdQ&s) no-repeat -7px -5px; 
+	background: transparent url() no-repeat -7px -5px; 
 
 	margin: 0px 0px 5px 0px; width:170px;
 
